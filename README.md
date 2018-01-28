@@ -1,7 +1,9 @@
-#Leonardo - Live Stream of 360 Degree Video!
+# Leonardo - Live Stream of 360 Degree Video!
 
 https://devpost.com/software/leonardo-v8lo1h
 
+
+<hr>
 
 # VR View
 
