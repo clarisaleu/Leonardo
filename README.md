@@ -1,8 +1,6 @@
 # Leonardo - Live Stream of 360 Degree Video!
 
-First Place in the VR/AR Impact Challenge!
-
-https://devpost.com/software/leonardo-v8lo1h
+First Place in the VR/AR Impact Challenge! https://devpost.com/software/leonardo-v8lo1h
 
 
 <hr>
